@@ -15,9 +15,9 @@ de Ethereum
 
 # Ejecución
 
-1 . Descargar y ejecutar Ganache. Crear un nuevo workspace.
-2 . Instalar Metamask como complemento de Google Chrome y conectarlo a la red de Ganache.  (Crear nueva red RPC > Rellenar con los datos que aparecen en la interfaz de Ganache)
-3 . En el directorio /dapp/ : $npm start
+-  Descargar y ejecutar Ganache. Crear un nuevo workspace.
+-  Instalar Metamask como complemento de Google Chrome y conectarlo a la red de Ganache.  (Crear nueva red RPC > Rellenar con los datos que aparecen en la interfaz de Ganache)
+- En el directorio /dapp/ : $npm start
 
 # Funcionalidad
 
